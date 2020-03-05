@@ -1,0 +1,14 @@
+- name: "Digilib Downloader"
+  descr: "One of the programs in the Research Division of HIMATIKA ITB is the 'Lex Luthor Database'. Simply put, this program wants to make an integrated database about the organization. With this database, it is expected that oganization can implement data-based policies with ease. When assigned to do extend this database, I decided to create a list of alumni's theses by scrapping campus library."
+  image: pong.png
+  github: https://github.com/kekavigi/eksperimen/tree/master/download%20digilib
+
+- name: "Lecture Notes"
+  descr: "This is a project(s) to create lecture notes on some math courses I followed."
+  image: pong.png
+  github: https://github.com/kekavigi/eksperimen/tree/master/materi%20tutorial
+
+- name: "Private SMS Gateway"
+  descr: "Some places in Indonesia currently do not have internet access, there are still many who rely on SMS and telephone to communicate. This project is my effort to continue being able to send and receive e-mails, access social media - such as LINE and Whatsapps - Wikipedia, KBBI, WolframAlpha, etc., using SMS via classic mobile phones such as Nokia."
+  image: pong.png
+  github: https://github.com/kekavigi/eksperimen/tree/master/sms%20gateway

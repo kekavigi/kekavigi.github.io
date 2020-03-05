@@ -1,441 +1,400 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.15.1 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="id" class="no-js">
-  <head>
-    <meta charset="utf-8">
-
-<!-- begin _includes/seo.html --><title>keka.vigi</title>
-<meta name="description" content="Keyka Vigiliant">
-
-
-
-<meta property="og:type" content="website">
-<meta property="og:locale" content="id_ID">
-<meta property="og:site_name" content="keka.vigi">
-<meta property="og:title" content="keka.vigi">
-<meta property="og:url" content="http://localhost:4000/">
-
-
-
-
-  <meta property="og:image" content="http://localhost:4000/assets/img/splash.jpg">
+<!DOCTYPE html>
+<html lang="en">
 
 
 
 
 
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="A simple and awesome blog theme powered by jekyll.">
+  <meta name="keywords" content="blog and jekyll">
+  <meta name="author" content="keka.vigi">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f5f5">
 
-
-
-
+  <!-- Twitter Tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="keka.vigi">
+  <meta name="twitter:description" content="A simple and awesome blog theme powered by jekyll.">
+  
+    <meta property="twitter:image" content="http://localhost:4000/img/leonids-logo.png">
   
 
+  <!-- Open Graph Tags -->
+  <meta property="og:type" content="blog">
+  <meta property="og:url" content="http://localhost:4000/">
+  <meta property="og:title" content="keka.vigi">
+  <meta property="og:description" content="A simple and awesome blog theme powered by jekyll.">
   
+    <meta property="og:image" content="http://localhost:4000/img/leonids-logo.png">
+  
+  <title>keka.vigi</title>
+
+  <!-- CSS files -->
+  <link rel="stylesheet" href="http://localhost:4000/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
+
+  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="alternate" type="application/rss+xml" title="keka.vigi" href="http://localhost:4000/feed.xml" />
+
+  <!-- Icons -->
+  <!-- 16x16 -->
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+  <!-- 32x32 -->
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+</head>
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<body>
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
+        
 
-
-
-
-
-
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "keka.vigi",
-      "url": "http://localhost:4000",
-      "sameAs": null
-    }
-  </script>
-
-
-
-
-
-
-
-<!-- end _includes/seo.html -->
-
-
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="keka.vigi Feed">
-
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+<div class="cover-card table-cell table-middle">
+  
+  <a href="http://localhost:4000/">
+    <img src="http://localhost:4000/img/favicon.png" alt="" class="avatar">
+  </a>
+  
+  <a href="http://localhost:4000/" class="author_name">keka.vigi</a>
+  <span class="author_job"></span>
+  <span class="author_bio mbm">Matematika ITB 2017</span>
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <a href="http://localhost:4000/">home</a>
+      </li>
+       
+      <li class="nav-item">
+        <a href="http://localhost:4000/archive/">Archive</a>
+      </li>
+          
+      <li class="nav-item">
+        <a href="http://localhost:4000/categories/">Categories</a>
+      </li>
+            
+      <li class="nav-item">
+        <a href="http://localhost:4000/resume/">Resume</a>
+      </li>
+        
+      <li class="nav-item">
+        <a href="http://localhost:4000/tags/">Tags</a>
+      </li>
+         
+    </ul>
+  </nav>
+  <script type="text/javascript">
+  // based on http://stackoverflow.com/a/10300743/280842
+  function gen_mail_to_link(hs, subject) {
+    var lhs,rhs;
+    var p = hs.split('@');
+    lhs = p[0];
+    rhs = p[1];
+    document.write("<a class=\"social-link-item\" target=\"_blank\" href=\"mailto");
+    document.write(":" + lhs + "@");
+    document.write(rhs + "?subject=" + subject + "\"><i class=\"fa fa-fw fa-envelope\"></i><\/a>");
+  }
 </script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
-
-<!--[if IE ]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
-
-
-
-    <!-- start custom head snippets -->
-<link href="https://fonts.googleapis.com/css?family=Staatliches|News+Cycle" rel="stylesheet"> 
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-  </head>
-
-  <body class="layout--splash">
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
-
+<div class="social-links">
+  <ul>
     
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-        <a class="site-title" href="/">keka.vigi</a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/tentang/" >Tentang</a>
-            </li></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Menu Toggle</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
-
-
-    <div class="initial-content">
-      
-  
-
-
-
-
-
-
-
-
-
-
-
-<div class="page__hero--overlay"
-  style="background-color: #FFF; background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('/assets/img/splash.jpg');"
->
-  
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
-        
-          keka.vigi
-
-        
-      </h1>
-      
-      
-      
-      
-    </div>
-  
-  
-    <span class="page__hero-caption">Foto oleh Rodion Kutsaev di Unsplash
-</span>
-  
-</div>
-
-
-
-<div id="main" role="main">
-  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+      <li>
+      <script>gen_mail_to_link('keka.vigi@gmail.com', 'Hello from website');</script>
+      </li>
     
     
     
     
-
-    <section class="page__content" itemprop="text">
-      
-
-<div class="feature__wrapper">
-
-  
-
+    <li><a href="http://linkedin.com/in/kekavigi" class="social-link-item" target="_blank"><i class="fa fa-fw fa-linkedin"></i></a></li>
     
-
-    <div class="feature__item--center">
-      <div class="archive__item">
-        
-
-        <div class="archive__item-body">
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Saya adalah seorang mahasiswa jurusan matematika semester empat di Institut Teknologi Bandung. Sembari maju menjadi calon wakil ketua divisi penelitian, saya mencoba untuk aktif dalam membagikan solusi permasalahan disekitar saya. Di bawah ini adalah beberapa hal yang pernah maupun yang sedang saya kerjakan:</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
-</div>
-
-
-
-<div class="feature__wrapper">
-
-  
-
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src=
-              
-                "/assets/img/web-teliti.jpeg"
-              
-            alt="web-teliti">
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Web Penelitian</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Membuat website untuk divisi penelitian himpunan.</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src=
-              
-                "/assets/img/gempa.jpeg"
-              
-            alt="OlahGempa">
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Olah Gempa</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Membuat visualisasi interaktif dan statistika deskripsi terkait gempa di Indonesia</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src=
-              
-                "/assets/img/SMSGateway.jpeg"
-              
-            alt="SMS Gateway">
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">SMS Gateway</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Ide saya membuat SMS Gateway untuk menerima chat sosmed ke ponsel fitur Nokia</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
+    <li><a href="http://github.com/kekavigi" class="social-link-item" target="_blank"><i class="fa fa-fw fa-github"></i></a></li>
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src=
-              
-                "/assets/img/bot.jpeg"
-              
-            alt="botline">
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Bot Belajar</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Bukanlah grup LINE lebih baik kalau ada bot seperti di Telegram?</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
     
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src=
-              
-                "/assets/img/matutor.jpeg"
-              
-            alt="materi tutor">
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Materi Tutorial</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>Usaha membuat tutorial dari mata kuliah yang sudah/sedang saya ambil.</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
-</div>
-
-    </section>
-  </article>
-</div>
-
-    </div>
-
     
-
-    <div class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
     
-      <li><strong>Ikuti:</strong></li>
     
-
     
-      
-        
-          <li><a href="https://facebook.com/keka.vigi" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-        
-      
-        
-          <li><a href="https://github.com/kekavigi/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-        
-      
-        
-          <li><a href="https://instagram.com/keka.vigi" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-        
-      
     
-
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+    
+    
+    
+    
+    
+    
+    
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2019 keka.vigi. Didukung oleh <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+</div>
 
-      </footer>
+      </div>
     </div>
+    <div class="col s12 m9">
+      <div class="post-listing">
+        
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        18 AUG 2015
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#tutorial">tutorial</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="http://localhost:4000/articles/2015-08/welcome-to-jekyll" class="post-title" title="Welcome to Jekyll!">Welcome to Jekyll!</a>
+      
+    </h4>
 
     
-  <script src="/assets/js/main.min.js"></script>
-  <script data-search-pseudo-elements defer src="https://use.fontawesome.com/releases/v5.7.1/js/all.js" integrity="sha384-eVEQC9zshBn0rFj4+TU78eNA19HMNigMviK/PU/FFjLXqa/GKPgX58rvt5Z8PLs7" crossorigin="anonymous"></script>
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
 
+      </p>
+    </div>
+    
+
+    
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        16 AUG 2013
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#code">code</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="http://localhost:4000/articles/2013-08/code-highlighting-post" class="post-title" title="Syntax Highlighting Post">Syntax Highlighting Post</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        Demo post displaying the various ways of highlighting code in Markdown.
+      </p>
+    </div>
+    
+
+    
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        12 AUG 2013
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#link post">link post</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="http://localhost:4000/articles/2013-08/sample-link-post" class="post-title" title="Sample Link Post">Sample Link Post</a>
+      
+      <a class="post-title-link" href="http://renyuanz.github.io" target="_blank" title="Sample Link Post"><i class="fa fa-external-link"></i></a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        Try click on the link icon.
+      </p>
+    </div>
+    
+
+    
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        23 MAY 2013
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a>
+        
+        <span>/</span>
+        
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#feature photo">feature photo</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="http://localhost:4000/articles/2013-05/readability-feature-post" class="post-title" title="Post with Large Feature Image and Text">Post with Large Feature Image and Text</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        Custom written post descriptions are the way to go... if you're not lazy.
+      </p>
+    </div>
+    
+
+    
+    <div class="post-image-feature">
+      <img src=
+      
+      "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250"
+      
+      alt="Post with Large Feature Image and Text feature image">
+
+      
+      <span class="image-credit">Photo Credit: <a href="https://unsplash.com/photos/oMpAz-DN-9I">Greg Rakozy</a></span>
+      
+    </div><!-- /.image-wrap -->
+    
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        22 MAY 2012
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#paragraph">paragraph</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="http://localhost:4000/articles/2012-05/readability-post" class="post-title" title="Testing &quot;Readability&quot; with a Bunch of Text">Testing "Readability" with a Bunch of Text</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        A ton of text to test readability.
+      </p>
+    </div>
+    
+
+    
+
+</section>
+
+<section class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <span class="post-date">
+        10 MAR 2011
+      </span>
+      
+      •
+      
+        <a class="post-cat" href="http://localhost:4000/categories/#hello world">hello world</a>
+        
+      
+      
+    </p>
+    <h4>
+      <a href="http://localhost:4000/articles/2011-03/sample-post" class="post-title" title="Sample Post">Sample Post</a>
+      
+    </h4>
+
+    
+
+    </header>
+
+    
+    <div class="post-description">
+      <p>
+        Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more.
+      </p>
+    </div>
+    
+
+    
+    <div class="post-image-feature">
+      <img src=
+      
+      "https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250"
+      
+      alt="Sample Post feature image">
+
+      
+      <span class="image-credit">Photo Credit: <a href="https://unsplash.com/photos/Ki0dpxd3LGc">thomas shellberg</a></span>
+      
+    </div><!-- /.image-wrap -->
+    
+
+</section>
 
 
+        <footer>
+  &copy; 2020 keka.vigi. Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://github.com/renyuanz/leonids/">leonids theme</a> made with <i class="fa fa-heart heart-icon"></i>
+</footer>
+
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="http://localhost:4000/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="http://localhost:4000/js/main.js"></script>
 
 
-
-
-  </body>
+</body>
 </html>
