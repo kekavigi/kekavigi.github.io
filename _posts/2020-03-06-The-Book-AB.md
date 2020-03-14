@@ -10,7 +10,7 @@ comments: true
 
 ## References
 
-[1](www.math.upenn.edu/~wilf/AeqB.pdf) Petkovsek, Marko, et al. [Home Page for the Book "A=B"](https://Www.math.upenn.edu/~Wilf/AeqB.html). 1997.
+[1](www.math.upenn.edu/~wilf/AeqB.pdf) Petkovsek, Marko, et al. [Home Page for the Book "A=B"](https://Www.math.upenn.edu/~wilf/AeqB.html). 1997.
 
 
 ## Notices
