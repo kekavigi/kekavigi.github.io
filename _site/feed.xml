@@ -5,8 +5,8 @@
     <description>A simple and awesome blog theme powered by jekyll.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2020-04-07</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2020 19:47:57 +0700</lastBuildDate>
+    <pubDate>2020-04-08</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2020 11:19:21 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -90,11 +90,203 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;h2 id=&quot;pertimbangan&quot;&gt;Pertimbangan&lt;/h2&gt;
 
-&lt;h3 id=&quot;arahan-kerja-divisi-sarpras-20202021&quot;&gt;Arahan Kerja Divisi Sarpras 2020/2021&lt;/h3&gt;
+&lt;h3 id=&quot;divisi-sarpras-bp-20202021&quot;&gt;Divisi Sarpras BP 2020/2021&lt;/h3&gt;
+
+&lt;p&gt;Pada kepengurusan saat ini, tidak ada perubahan berarti dalam struktur divisi. Saat ini, Divisi Sarpras didefinisikan sebagai Divisi &lt;em&gt;yang bertanggung jawab dalam menyediakan dan mengelola urusan sarana dan prasarana dalam sekretariat HIMATIKA ITB&lt;/em&gt;. Hal ini dilanjutkan dengan tujuan &lt;em&gt;terciptanya Sekretariat yang mendukung anggotanya untuk berkegiatan dengan nyaman&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Terdapat empat arahan kerja pada kepengurusan saat ini&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur.&lt;/li&gt;
+  &lt;li&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat.&lt;/li&gt;
+  &lt;li&gt;Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya.&lt;/li&gt;
+  &lt;li&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Walau terdapat beberapa perbedaan arahan kerja saat ini dengan kepengurusan sebelumnya, namun saya mengusahakan proker yang saya bentuk mencakup usaha-usaha yang telah dilakukan oleh kepengurusan sebelumnya.&lt;/p&gt;
 
 &lt;h3 id=&quot;pandemi-virus-sars-cov-2&quot;&gt;Pandemi virus SARS-CoV-2&lt;/h3&gt;
 
+&lt;p&gt;Tidak dapat diabaikan bahwa pandemi penyakit COVID-19 akan berdampak pada peforma Divisi Sarpras saat ini. Berikut daftar kasus [tidak lengkap] yang saya pertimbangkan bagaimana pandemi ini dapat berdampak, dan bagaimana cara [to some extend] menanggapi hal tersebut:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kekurangan anggota&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sekre jadi sepi&lt;/strong&gt; transisi pengguna sekre menjadi online&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ngisi maupun perbaikan barang jadi sulit/mahal&lt;/strong&gt; ekonomi&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;program-kerja&quot;&gt;Program Kerja&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Revisi&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;Detail&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Arahan Kerja&lt;/td&gt;
+      &lt;td&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Deskripsi&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tujuan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Langkah Teknis&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Ambil Data&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;Detail&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Arahan Kerja&lt;/td&gt;
+      &lt;td&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Deskripsi&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tujuan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Langkah Teknis&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Proposal&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;Detail&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Arahan Kerja&lt;/td&gt;
+      &lt;td&gt;Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Deskripsi&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tujuan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Langkah Teknis&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;Detail&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Arahan Kerja&lt;/td&gt;
+      &lt;td&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Deskripsi&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tujuan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Langkah Teknis&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&quot;langkah-taktis&quot;&gt;Langkah Taktis&lt;/h2&gt;
 
@@ -134,8 +326,15 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;h3 id=&quot;kegiatan-non-divisi&quot;&gt;Kegiatan Non-Divisi&lt;/h3&gt;
 &lt;p&gt;Tentu, saya mengharapkan anggota tidak hanya berfokus pada permasalahan di divisinya masing-masing. Kinerja kepengurusan divisi Sarpras sebelumnya yang bagus, sedikit banyak telah membantu kepengurusan saat ini. Mengingat hal itu, saya berniat untuk membuat anggota divisi Sarpras aktif melihat dan bersama-sama membantu permasalahan yang terjadi di divisi lain (baik itu satu bidang, BP, maupun dalam kepengurusan tertentu).&lt;/p&gt;
+
+&lt;h2 id=&quot;revisi-draft&quot;&gt;Revisi Draft&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1.0, 2020-03-26&lt;/li&gt;
+  &lt;li&gt;1.1, 2020-04-05&lt;/li&gt;
+  &lt;li&gt;1.2, 2020-04-07&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>2020-04-07</pubDate>
+        <pubDate>2020-04-08</pubDate>
         <link>http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</guid>
         
@@ -164,7 +363,7 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;p&gt;&lt;a href=&quot;https://books.google.co.id/books?id=L07OCwAAQBAJ&amp;amp;pg=PA89&amp;amp;lpg=PA89&amp;amp;dq=unsolved+problem+eigenvalue&amp;amp;source=bl&amp;amp;ots=SplJm7ONaL&amp;amp;sig=ACfU3U0wt6mM_i0NfpDdeP9qy_Uh66MFXw&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=2ahUKEwjwjcfb4JnoAhVLWH0KHVzOAWsQ6AEwCHoECAoQAQ#v=onepage&amp;amp;q=unsolved%20problem%20eigenvalue&amp;amp;f=false&quot;&gt;b&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>2020-04-07</pubDate>
+        <pubDate>2020-04-08</pubDate>
         <link>http://localhost:4000/articles/2020-03/NIEP</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2020-03/NIEP</guid>
         
@@ -187,7 +386,7 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;p class=&quot;notice&quot;&gt;Saya belum membaca buku ini secara lengkap :(&lt;/p&gt;
 </description>
-        <pubDate>2020-04-07</pubDate>
+        <pubDate>2020-04-08</pubDate>
         <link>http://localhost:4000/articles/2020-03/The-Book-AB</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2020-03/The-Book-AB</guid>
         

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sarana dan Prasarana HIMATIKA ITB
-excerpt: "Draft 1.1"
+excerpt: "Draft 1.1.1"
 categories: [draft, review]
 comments: true
 ---
@@ -57,17 +57,70 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga **menjadi solusi** 
 ## Pertimbangan
 
 ### Divisi Sarpras BP 2020/2021
-**Definisi**: Divisi yang bertanggung jawab dalam menyediakan dan mengelola urusan sarana dan prasarana dalam sekretariat HIMATIKA ITB
 
-**Tujuan**: Terciptanya sekretariat HIMATIKA ITB yang mendukung anggotanya untuk berkegiatan
-dengan nyaman.
+Pada kepengurusan saat ini, tidak ada perubahan berarti dalam struktur divisi. Saat ini, Divisi Sarpras didefinisikan sebagai Divisi *yang bertanggung jawab dalam menyediakan dan mengelola urusan sarana dan prasarana dalam sekretariat HIMATIKA ITB*. Hal ini dilanjutkan dengan tujuan *terciptanya Sekretariat yang mendukung anggotanya untuk berkegiatan dengan nyaman*.
 
+Terdapat empat arahan kerja pada kepengurusan saat ini
+1. Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur.
+2. Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat.
+3. Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya.
+4. Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.
 
+Walau terdapat beberapa perbedaan arahan kerja saat ini dengan kepengurusan sebelumnya, namun saya mengusahakan proker yang saya bentuk mencakup usaha-usaha yang telah dilakukan oleh kepengurusan sebelumnya.
 
 ### Pandemi virus SARS-CoV-2
 
+Tidak dapat diabaikan bahwa pandemi penyakit COVID-19 akan berdampak pada peforma Divisi Sarpras saat ini. Berikut daftar kasus [tidak lengkap] yang saya pertimbangkan bagaimana pandemi ini dapat berdampak, dan bagaimana cara [to some extend] menanggapi hal tersebut:
+
+* **Kekurangan anggota**
+* **Sekre jadi sepi** transisi pengguna sekre menjadi online
+* **Ngisi maupun perbaikan barang jadi sulit/mahal** ekonomi
 
 ## Program Kerja
+
+| **Revisi**       | Detail |
+|------------------|--------|
+| Arahan Kerja     | Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur |
+| Deskripsi        |  |
+| Tujuan           |  |
+| Parameter Ketercapaian        |  |
+| Timeline/Frekuensi Pengerjaan |  |
+| Langkah Teknis                |  |
+| Jumlah SDM yang dibutuhkan    |  |
+| Rancangan Anggaran Biaya      |  |
+
+| **Ambil Data**   | Detail |
+|------------------|--------|
+| Arahan Kerja     | Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat |
+| Deskripsi        |  |
+| Tujuan           |  |
+| Parameter Ketercapaian        |  |
+| Timeline/Frekuensi Pengerjaan |  |
+| Langkah Teknis                |  |
+| Jumlah SDM yang dibutuhkan    |  |
+| Rancangan Anggaran Biaya      |  |
+
+| **Proposal**     | Detail |
+|------------------|--------|
+| Arahan Kerja     | Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya |
+| Deskripsi        |  |
+| Tujuan           |  |
+| Parameter Ketercapaian        |  |
+| Timeline/Frekuensi Pengerjaan |  |
+| Langkah Teknis                |  |
+| Jumlah SDM yang dibutuhkan    |  |
+| Rancangan Anggaran Biaya      |  |
+
+| **Seminar**      | Detail |
+|------------------|--------|
+| Arahan Kerja     | Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB. |
+| Deskripsi        |  |
+| Tujuan           |  |
+| Parameter Ketercapaian        |  |
+| Timeline/Frekuensi Pengerjaan |  |
+| Langkah Teknis                |  |
+| Jumlah SDM yang dibutuhkan    |  |
+| Rancangan Anggaran Biaya      |  |
 
 
 ## Langkah Taktis
@@ -109,3 +162,8 @@ btw urang bisa minta data LPJ wisuda, LPJ MCF, dkk; untuk nyediakan alat *yang t
 
 ### Kegiatan Non-Divisi
 Tentu, saya mengharapkan anggota tidak hanya berfokus pada permasalahan di divisinya masing-masing. Kinerja kepengurusan divisi Sarpras sebelumnya yang bagus, sedikit banyak telah membantu kepengurusan saat ini. Mengingat hal itu, saya berniat untuk membuat anggota divisi Sarpras aktif melihat dan bersama-sama membantu permasalahan yang terjadi di divisi lain (baik itu satu bidang, BP, maupun dalam kepengurusan tertentu). 
+
+## Revisi Draft
+* 1.0, 2020-03-26
+* 1.1, 2020-04-05
+* 1.2, 2020-04-07
