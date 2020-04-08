@@ -3,18 +3,51 @@
   <channel>
     <title>keka.vigi</title>
     <description>A simple and awesome blog theme powered by jekyll.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>2020-04-08</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2020 11:19:21 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 21:15:29 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Sarana dan Prasarana HIMATIKA ITB</title>
-        <description>&lt;h2 id=&quot;latar-belakang&quot;&gt;Latar Belakang&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;daftar-isi&quot;&gt;Daftar Isi&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#latar-belakang&quot;&gt;Latar Belakang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lpj-divisi-sarpras-2019-2020&quot;&gt;LPJ Divisi Sarpras 2019-2020&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pertimbangan-dalam-penyusunan-program-kerja&quot;&gt;Pertimbangan dalam Penyusunan Program Kerja&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#badan-pengurus-2020-2021&quot;&gt;Badan Pengurus 2020-2021&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#pandemi-virus-sars-cov-2&quot;&gt;Pandemi virus SARS-CoV-2&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#pendapat-anggota&quot;&gt;Pendapat Anggota&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#program-kerja&quot;&gt;Program Kerja&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#revisi&quot;&gt;Revisi&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ambil-data&quot;&gt;Ambil Data&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#proposal&quot;&gt;Proposal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#seminar&quot;&gt;Seminar&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#langkah-taktis&quot;&gt;Langkah Taktis&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#buku&quot;&gt;Buku&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#perabotan&quot;&gt;Perabotan&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sarana&quot;&gt;Sarana&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prasarana&quot;&gt;Prasarana&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#alat-habis-pakai&quot;&gt;Alat Habis Pakai&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sop&quot;&gt;SOP&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#kegiatan-non-divisi&quot;&gt;Kegiatan Non-Divisi&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#revisi-draft&quot;&gt;Revisi Draft&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;latar-belakang&quot;&gt;Latar Belakang&lt;/h2&gt;
 &lt;p&gt;Pada keberjalanannya, HIMATIKA ITB telah melakukan banyak kegiatan dalam mencapai tujuan ia dibentuk. Divisi Sarana dan Prasarana (Sarpras) diperlukan untuk memberikan pelayanan, baik sarana maupun prasarana, untuk menunjang kegiatan-kegiatan organisasi. Draft ini saya bentuk sebagai gambaran kasar mengenai apa yang dapat diberikan Divisi Sarpras pada masa kepengurusan 2020/2021.&lt;/p&gt;
 
-&lt;h2 id=&quot;lpj-divisi-sarpras-20192020&quot;&gt;LPJ Divisi Sarpras 2019/2020&lt;/h2&gt;
+&lt;h2 id=&quot;lpj-divisi-sarpras-2019-2020&quot;&gt;LPJ Divisi Sarpras 2019-2020&lt;/h2&gt;
 &lt;p&gt;Mengacu pada LPJ Divisi Sarpras BP 2019/2020, kita melihat bahwa mereka telah melakukan tugasnya dengan baik. Hal ini sedikit banyak tentu membantu saya membentuk program kerja yang lebih sesuai dengan kondisi HIMATIKA ITB. Secara singkat, terdapat lima arahan kerja yang diberikan pada divisi ini di kepengurusan sebelumnya. Berikut daftar arahan kerja dan evaluasi singkatnya:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -71,27 +104,21 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;evaluasi-umum&quot;&gt;Evaluasi Umum&lt;/h3&gt;
-
+&lt;p&gt;Selain itu, terdapat pula beberapa evaluasi umum pada divisi ini, yakni:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Terdapat beberapa barang tanpa bon atau bon hilang, juga beberapa pengeluaran uang tanpa pencatatan. Hal tersebut tentu berakibat buruk di akhir kepengurusan dikarenakan dapat menghambat proses pembuatan laporan keuangan. Diharapkan bahwa pada kepengurusan selanjutnya, dipilih penanggung jawab terkait keuangan divisi, sehingga diharapkan dapat mengurangi lalai dalam pencatatan.&lt;/p&gt;
+    &lt;p&gt;Terdapat [pembelian] beberapa &lt;strong&gt;barang tanpa bon atau bon hilang&lt;/strong&gt;, juga beberapa &lt;strong&gt;pengeluaran uang tanpa pencatatan&lt;/strong&gt;. Hal tersebut tentu berakibat buruk di akhir kepengurusan dikarenakan dapat menghambat proses pembuatan laporan keuangan. Diharapkan bahwa pada kepengurusan selanjutnya, &lt;strong&gt;dipilih penanggung jawab terkait keuangan divisi&lt;/strong&gt;, sehingga diharapkan dapat mengurangi lalai dalam pencatatan.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Kontribusi penjagaan kebersihan dan kenyamanan Sekretariat telah disebar pada seluruh bidang, setidaknya pada anggota BP HIMATIKA ITB. Diharapkan, selain approaching internal divisi masing-­masing untuk bisa mengajak anggotanya melaksanakan piket, Divisi Sarana dan Prasarana juga dirasa perlu secara berkala mengingatkan terkait tujuan dari Piket Anggota HIMATIKA ITB.&lt;/p&gt;
+    &lt;p&gt;Kontribusi penjagaan kebersihan dan kenyamanan Sekretariat telah disebar pada seluruh bidang, setidaknya pada anggota BP HIMATIKA ITB. Diharapkan, selain approaching internal divisi masing-­masing untuk bisa mengajak anggotanya melaksanakan piket, Divisi Sarana dan Prasarana juga dirasa &lt;strong&gt;perlu secara berkala mengingatkan terkait tujuan dari Piket&lt;/strong&gt; Anggota HIMATIKA ITB.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Isu yang muncul pada kepengurusan kali ini adalah masuknya anggota HIMATIKA 2019. Sebagaimana diketahui bahwa jumlah Anggota HIMATIKA 2019 mencapai 150 orang. Hal ini membuat beberapa anggapan bahwa, “Apakah Sekretariat cukup untuk menampung anggota sebanyak itu?” menimbulkan dilema, apakah memang kita harus senang jika banyak anggota HIMATIKA ITB yang datang ke Sekretariat, karena semakin banyak yang datang, maka akan semakin penuh dan sesak. Beberapa hal yang telah diwacanakan adalah:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;pemanfaatan bukit yang ada di depan Sekretariat untuk dimanfaatkan sebagai tempat yang bisa digunakan aktivitas Anggota HIMATIKA ITB. Hal tersebut mungkin dilaksanakan dengan kendala perizinan dari Direktorat Sarana dan Prasarana ITB. Sehingga, dalam kepengurusan kali ini, isu untuk pemanfaatan bukit di depan Sekretariat tidak jadi dibahas lagi.&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Isu yang muncul pada kepengurusan lalu adalah masuknya anggota HIMATIKA 2019 yang mencapai 150 orang. Hal ini menimbulkan anggapan bahwa Sekretariat tidak cukup untuk menampung perubahan seperti ini. Hal yang telah diwacanakan adalah &lt;strong&gt;pemanfaatan bukit&lt;/strong&gt; di depan Sekretariat untuk dimanfaatkan sebagai tempat yang bisa digunakan aktivitas Anggota HIMATIKA ITB. Hal tersebut mungkin dilaksanakan dengan kendala perizinan dari Direktorat Sarana dan Prasarana ITB.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;pertimbangan&quot;&gt;Pertimbangan&lt;/h2&gt;
-
-&lt;h3 id=&quot;divisi-sarpras-bp-20202021&quot;&gt;Divisi Sarpras BP 2020/2021&lt;/h3&gt;
-
+&lt;h2 id=&quot;pertimbangan-dalam-penyusunan-program-kerja&quot;&gt;Pertimbangan dalam Penyusunan Program Kerja&lt;/h2&gt;
+&lt;h3 id=&quot;badan-pengurus-2020-2021&quot;&gt;Badan Pengurus 2020-2021&lt;/h3&gt;
 &lt;p&gt;Pada kepengurusan saat ini, tidak ada perubahan berarti dalam struktur divisi. Saat ini, Divisi Sarpras didefinisikan sebagai Divisi &lt;em&gt;yang bertanggung jawab dalam menyediakan dan mengelola urusan sarana dan prasarana dalam sekretariat HIMATIKA ITB&lt;/em&gt;. Hal ini dilanjutkan dengan tujuan &lt;em&gt;terciptanya Sekretariat yang mendukung anggotanya untuk berkegiatan dengan nyaman&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Terdapat empat arahan kerja pada kepengurusan saat ini&lt;/p&gt;
@@ -102,194 +129,136 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
   &lt;li&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Walau terdapat beberapa perbedaan arahan kerja saat ini dengan kepengurusan sebelumnya, namun saya mengusahakan proker yang saya bentuk mencakup usaha-usaha yang telah dilakukan oleh kepengurusan sebelumnya.&lt;/p&gt;
+&lt;p&gt;Walau terdapat beberapa perbedaan arahan kerja saat ini dengan kepengurusan sebelumnya, baik secara frasa maupun jumlah, saya mengusahakan program kerja yang dibentuk mencakup usaha-usaha yang telah diupayakan oleh kepengurusan sebelumnya.&lt;/p&gt;
+
+&lt;p&gt;Apakah MSDA ada titip saran, seperti proker seperti &lt;em&gt;Ngopi!&lt;/em&gt; gitu?&lt;/p&gt;
 
 &lt;h3 id=&quot;pandemi-virus-sars-cov-2&quot;&gt;Pandemi virus SARS-CoV-2&lt;/h3&gt;
-
 &lt;p&gt;Tidak dapat diabaikan bahwa pandemi penyakit COVID-19 akan berdampak pada peforma Divisi Sarpras saat ini. Berikut daftar kasus [tidak lengkap] yang saya pertimbangkan bagaimana pandemi ini dapat berdampak, dan bagaimana cara [to some extend] menanggapi hal tersebut:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Kekurangan anggota&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sekre jadi sepi&lt;/strong&gt; transisi pengguna sekre menjadi online&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ngisi maupun perbaikan barang jadi sulit/mahal&lt;/strong&gt; ekonomi&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kurangnya minat Anggota&lt;/strong&gt; berpartisipasi menjadi staff Divisi Sarpras.
+    &lt;ul&gt;
+      &lt;li&gt;Kekhawatiran yang mungkin adalah terjadinya terjangkitnya penyakit COVID-19 atau mengontaminasi ruangan sekre.&lt;/li&gt;
+      &lt;li&gt;berapa banyak anggota divisi tahun lalu? apakah saat ini ada kewajiban wajib staff bagi anggota? Bagaimana pembagian tugas jika:
+        &lt;ul&gt;
+          &lt;li&gt;jumlah staff sama seperti sebelumnya?&lt;/li&gt;
+          &lt;li&gt;jumlah staff 2/3 dari sebelumnya?&lt;/li&gt;
+          &lt;li&gt;jumlah staff 1/2 dari sebelumnya?
+  hal ini hendaknya juga mempertimbangkan partisipasi staff selama kepengurusan (kualitas, bukan hanya kuantitas)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sekretariat yang menjadi lebih sepi.&lt;/strong&gt; Tentu hal ini ada baiknya, bahkan dengan pertimbangan bahwa pandemi penyakit COVID-19 dapat berakhir pada bulan Agustus, peluang terinfeksi tidak hilang begitu saja. Langkah preventif yang dapat kita lakukan sebelum ada vaksin untuk penyakit ini, sedikit banyak, adalah pembatasan fisik dan menghindari tempat-tempat umum. [urang penasaran, bagaimana SOP mahasiswa dalam mengadakan rapat pasca pandemi ini.]
+    &lt;ul&gt;
+      &lt;li&gt;Pendapat tentang upaya sterilisasi rutin Sekretariat?&lt;/li&gt;
+      &lt;li&gt;Pendapat tentang memperluas sekre? tentu ijin lebih sulit (dan kurang waras diajukan pada masa saat ini) bagaimana dengan membuat guideline dan rekomendasi bagi penerus jika ingin melanjutkan ide ini?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mengganti maupun melakukan perbaikan barang menjadi lebih sulit/mahal.&lt;/strong&gt; Pandemi ini sedikit banyak juga akan berdampak pada bidang ekonomi dan sosial. Kita kemungkinan besar akan menghadapi proses yang lebih sulit dalam belanja :(&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;pendapat-anggota&quot;&gt;Pendapat Anggota&lt;/h3&gt;
+&lt;p&gt;Sepertinya saya perlu meminta masukkan dari Anggota, tentang bagaimana Sarpras dapat memenuhi kebutuhan mereka. Tentu, proker yang saya buat sedikit banyak dapat berjalan bahkan jika partisipasi Anggota rendah, tapi ayolah… saya tidak ingin membuat proker yang &lt;em&gt;pointless&lt;/em&gt;.&lt;/p&gt;
+
 &lt;h2 id=&quot;program-kerja&quot;&gt;Program Kerja&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Aman: tidak dimaling            --								 AMANKEUN
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;Revisi&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt;Detail&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Arahan Kerja&lt;/td&gt;
-      &lt;td&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Deskripsi&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tujuan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Langkah Teknis&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h3 id=&quot;revisi&quot;&gt;Revisi&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Arahan Kerja:
+    &lt;ul&gt;
+      &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Deskripsi&lt;/li&gt;
+  &lt;li&gt;Tujuan:
+    &lt;ul&gt;
+      &lt;li&gt;Nyaman, teratur&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parameter Ketercapaian:
+    &lt;ul&gt;
+      &lt;li&gt;Nyaman: Sekretariat Bersih, sering piket – disusun berapa hari sekali?&lt;/li&gt;
+      &lt;li&gt;Teratur: barang pada tempatnya, work as expected&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
+  &lt;li&gt;Langkah Teknis&lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;Ambil Data&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt;Detail&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Arahan Kerja&lt;/td&gt;
-      &lt;td&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Deskripsi&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tujuan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Langkah Teknis&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h3 id=&quot;ambil-data&quot;&gt;Ambil Data&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Arahan Kerja:
+    &lt;ul&gt;
+      &lt;li&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Deskripsi&lt;/li&gt;
+  &lt;li&gt;Tujuan:
+    &lt;ul&gt;
+      &lt;li&gt;Pendataan, Pengadaan, Perbaikan&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parameter Ketercapaian
+    &lt;ul&gt;
+      &lt;li&gt;Pendataan: 2 minggu sekali&lt;/li&gt;
+      &lt;li&gt;Pengadaan: secepatnya&lt;/li&gt;
+      &lt;li&gt;Perbaikan: secepatnya&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
+  &lt;li&gt;Langkah Teknis&lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;Proposal&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt;Detail&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Arahan Kerja&lt;/td&gt;
-      &lt;td&gt;Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Deskripsi&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tujuan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Langkah Teknis&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h3 id=&quot;proposal&quot;&gt;Proposal&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Arahan Kerja:
+    &lt;ul&gt;
+      &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur&lt;/li&gt;
+      &lt;li&gt;Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Deskripsi&lt;/li&gt;
+  &lt;li&gt;Tujuan:
+    &lt;ul&gt;
+      &lt;li&gt;Aman, Penyimpanan, Penggunaan&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parameter Ketercapaian
+    &lt;ul&gt;
+      &lt;li&gt;Aman: tidak dimaling&lt;/li&gt;
+      &lt;li&gt;Penyimpanan: tidak dimaling&lt;/li&gt;
+      &lt;li&gt;Penggunaan: tidak rusak dan tidak dimaling&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
+  &lt;li&gt;Langkah Teknis&lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;Seminar&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt;Detail&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Arahan Kerja&lt;/td&gt;
-      &lt;td&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Deskripsi&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tujuan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Parameter Ketercapaian&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Timeline/Frekuensi Pengerjaan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Langkah Teknis&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Jumlah SDM yang dibutuhkan&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Rancangan Anggaran Biaya&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h3 id=&quot;seminar&quot;&gt;Seminar&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Arahan Kerja:
+  Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/li&gt;
+  &lt;li&gt;Deskripsi&lt;/li&gt;
+  &lt;li&gt;Tujuan:
+  Publikasi&lt;/li&gt;
+  &lt;li&gt;Parameter Ketercapaian&lt;/li&gt;
+  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
+  &lt;li&gt;Langkah Teknis&lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;langkah-taktis&quot;&gt;Langkah Taktis&lt;/h2&gt;
-
 &lt;h3 id=&quot;buku&quot;&gt;Buku&lt;/h3&gt;
 &lt;p&gt;Organisasi memiliki koleksi buku yang banyak, (setidaknya) terdiri dari buku teks mata kuliah, buku pengayaan, dokumen LPJ, majalah dan koleksi fiksi, dan dokumen lawas. Sumbangan buku dari anggota dan alumni ikut memperkaya jumlah koleksi buku yang dimiliki HIMATIKA ITB. Namun dalam keberjalanannya, kuantitas buku yang banyak memberikan beberapa kesulitan dalam penyimpanan dan proses inventarisasi. Untuk itu, saya mengusulkan:&lt;/p&gt;
 
@@ -324,19 +293,50 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;p&gt;btw urang bisa minta data LPJ wisuda, LPJ MCF, dkk; untuk nyediakan alat &lt;em&gt;yang tidak&lt;/em&gt; hais pakai: misal memperbanyak jumlah kuas, gunting, stapler. selain itu, apakah P3K disekre sudah cukup lengkap?&lt;/p&gt;
 
+&lt;h3 id=&quot;sop&quot;&gt;SOP&lt;/h3&gt;
+&lt;p&gt;Daftar SOP yang perlu diperhatikan&lt;/p&gt;
+
 &lt;h3 id=&quot;kegiatan-non-divisi&quot;&gt;Kegiatan Non-Divisi&lt;/h3&gt;
 &lt;p&gt;Tentu, saya mengharapkan anggota tidak hanya berfokus pada permasalahan di divisinya masing-masing. Kinerja kepengurusan divisi Sarpras sebelumnya yang bagus, sedikit banyak telah membantu kepengurusan saat ini. Mengingat hal itu, saya berniat untuk membuat anggota divisi Sarpras aktif melihat dan bersama-sama membantu permasalahan yang terjadi di divisi lain (baik itu satu bidang, BP, maupun dalam kepengurusan tertentu).&lt;/p&gt;
 
 &lt;h2 id=&quot;revisi-draft&quot;&gt;Revisi Draft&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;1.0, 2020-03-26&lt;/li&gt;
-  &lt;li&gt;1.1, 2020-04-05&lt;/li&gt;
-  &lt;li&gt;1.2, 2020-04-07&lt;/li&gt;
-&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Versi&lt;/th&gt;
+      &lt;th&gt;Tanggal&lt;/th&gt;
+      &lt;th&gt;Perubahan&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.0&lt;/td&gt;
+      &lt;td&gt;2020 Mar 26&lt;/td&gt;
+      &lt;td&gt;Draft awal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.1&lt;/td&gt;
+      &lt;td&gt;2020-04-05&lt;/td&gt;
+      &lt;td&gt;Menambahkan bagian Pertimbangan&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.2&lt;/td&gt;
+      &lt;td&gt;2020-04-07&lt;/td&gt;
+      &lt;td&gt;Menambahkan bagian Daftar Isi, LPJ, Program Kerja; dan memperbaiki isi Pertimbangan&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.2.1&lt;/td&gt;
+      &lt;td&gt;2020-04-07&lt;/td&gt;
+      &lt;td&gt;Memperbaiki dokumen&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
 </description>
         <pubDate>2020-04-08</pubDate>
-        <link>http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</guid>
+        <link>/articles/2020-03/Sapras-HIMATIKA-ITB</link>
+        <guid isPermaLink="true">/articles/2020-03/Sapras-HIMATIKA-ITB</guid>
         
         
         <category>draft</category>
@@ -364,8 +364,8 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 &lt;p&gt;&lt;a href=&quot;https://books.google.co.id/books?id=L07OCwAAQBAJ&amp;amp;pg=PA89&amp;amp;lpg=PA89&amp;amp;dq=unsolved+problem+eigenvalue&amp;amp;source=bl&amp;amp;ots=SplJm7ONaL&amp;amp;sig=ACfU3U0wt6mM_i0NfpDdeP9qy_Uh66MFXw&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=2ahUKEwjwjcfb4JnoAhVLWH0KHVzOAWsQ6AEwCHoECAoQAQ#v=onepage&amp;amp;q=unsolved%20problem%20eigenvalue&amp;amp;f=false&quot;&gt;b&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>2020-04-08</pubDate>
-        <link>http://localhost:4000/articles/2020-03/NIEP</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2020-03/NIEP</guid>
+        <link>/articles/2020-03/NIEP</link>
+        <guid isPermaLink="true">/articles/2020-03/NIEP</guid>
         
         
         <category>draft</category>
@@ -387,8 +387,8 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 &lt;p class=&quot;notice&quot;&gt;Saya belum membaca buku ini secara lengkap :(&lt;/p&gt;
 </description>
         <pubDate>2020-04-08</pubDate>
-        <link>http://localhost:4000/articles/2020-03/The-Book-AB</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2020-03/The-Book-AB</guid>
+        <link>/articles/2020-03/The-Book-AB</link>
+        <guid isPermaLink="true">/articles/2020-03/The-Book-AB</guid>
         
         
         <category>draft</category>

@@ -1,15 +1,37 @@
 ---
 layout: post
 title: Sarana dan Prasarana HIMATIKA ITB
-excerpt: "Draft 1.1.1"
+excerpt: "Draft 1.2.1"
 categories: [draft, review]
 comments: true
 ---
 
+## Daftar Isi
+- [Latar Belakang](#latar-belakang)
+- [LPJ Divisi Sarpras 2019-2020](#lpj-divisi-sarpras-2019-2020)
+- [Pertimbangan dalam Penyusunan Program Kerja](#pertimbangan-dalam-penyusunan-program-kerja)
+  * [Badan Pengurus 2020-2021](#badan-pengurus-2020-2021)
+  * [Pandemi virus SARS-CoV-2](#pandemi-virus-sars-cov-2)
+  * [Pendapat Anggota](#pendapat-anggota)
+- [Program Kerja](#program-kerja)
+  * [Revisi](#revisi)
+  * [Ambil Data](#ambil-data)
+  * [Proposal](#proposal)
+  * [Seminar](#seminar)
+- [Langkah Taktis](#langkah-taktis)
+  * [Buku](#buku)
+  * [Perabotan](#perabotan)
+  * [Sarana](#sarana)
+  * [Prasarana](#prasarana)
+  * [Alat Habis Pakai](#alat-habis-pakai)
+  * [SOP](#sop)
+  * [Kegiatan Non-Divisi](#kegiatan-non-divisi)
+- [Revisi Draft](#revisi-draft)
+
 ## Latar Belakang
 Pada keberjalanannya, HIMATIKA ITB telah melakukan banyak kegiatan dalam mencapai tujuan ia dibentuk. Divisi Sarana dan Prasarana (Sarpras) diperlukan untuk memberikan pelayanan, baik sarana maupun prasarana, untuk menunjang kegiatan-kegiatan organisasi. Draft ini saya bentuk sebagai gambaran kasar mengenai apa yang dapat diberikan Divisi Sarpras pada masa kepengurusan 2020/2021.
 
-## LPJ Divisi Sarpras 2019/2020
+## LPJ Divisi Sarpras 2019-2020
 Mengacu pada LPJ Divisi Sarpras BP 2019/2020, kita melihat bahwa mereka telah melakukan tugasnya dengan baik. Hal ini sedikit banyak tentu membantu saya membentuk program kerja yang lebih sesuai dengan kondisi HIMATIKA ITB. Secara singkat, terdapat lima arahan kerja yang diberikan pada divisi ini di kepengurusan sebelumnya. Berikut daftar arahan kerja dan evaluasi singkatnya:
 
 1. **Membuat Sekretariat menjadi tempat yang aman, terstruktur dan nyaman bagi Anggota HIMATIKA ITB.**
@@ -45,19 +67,15 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga **menjadi solusi** 
 
 	* Instalasi kanopi di depan Sekretariat **berhasil dilaksanakan**. Setelah instalasi dilakukan, tidak diperlukan perawatan khusus pada kanopi tersebut.
 
-### Evaluasi Umum
+Selain itu, terdapat pula beberapa evaluasi umum pada divisi ini, yakni:
+* Terdapat [pembelian] beberapa **barang tanpa bon atau bon hilang**, juga beberapa **pengeluaran uang tanpa pencatatan**. Hal tersebut tentu berakibat buruk di akhir kepengurusan dikarenakan dapat menghambat proses pembuatan laporan keuangan. Diharapkan bahwa pada kepengurusan selanjutnya, **dipilih penanggung jawab terkait keuangan divisi**, sehingga diharapkan dapat mengurangi lalai dalam pencatatan.
 
-* Terdapat beberapa barang tanpa bon atau bon hilang, juga beberapa pengeluaran uang tanpa pencatatan. Hal tersebut tentu berakibat buruk di akhir kepengurusan dikarenakan dapat menghambat proses pembuatan laporan keuangan. Diharapkan bahwa pada kepengurusan selanjutnya, dipilih penanggung jawab terkait keuangan divisi, sehingga diharapkan dapat mengurangi lalai dalam pencatatan.
+* Kontribusi penjagaan kebersihan dan kenyamanan Sekretariat telah disebar pada seluruh bidang, setidaknya pada anggota BP HIMATIKA ITB. Diharapkan, selain approaching internal divisi masing-­masing untuk bisa mengajak anggotanya melaksanakan piket, Divisi Sarana dan Prasarana juga dirasa **perlu secara berkala mengingatkan terkait tujuan dari Piket** Anggota HIMATIKA ITB.
 
-* Kontribusi penjagaan kebersihan dan kenyamanan Sekretariat telah disebar pada seluruh bidang, setidaknya pada anggota BP HIMATIKA ITB. Diharapkan, selain approaching internal divisi masing-­masing untuk bisa mengajak anggotanya melaksanakan piket, Divisi Sarana dan Prasarana juga dirasa perlu secara berkala mengingatkan terkait tujuan dari Piket Anggota HIMATIKA ITB.
+* Isu yang muncul pada kepengurusan lalu adalah masuknya anggota HIMATIKA 2019 yang mencapai 150 orang. Hal ini menimbulkan anggapan bahwa Sekretariat tidak cukup untuk menampung perubahan seperti ini. Hal yang telah diwacanakan adalah **pemanfaatan bukit** di depan Sekretariat untuk dimanfaatkan sebagai tempat yang bisa digunakan aktivitas Anggota HIMATIKA ITB. Hal tersebut mungkin dilaksanakan dengan kendala perizinan dari Direktorat Sarana dan Prasarana ITB.
 
-* Isu yang muncul pada kepengurusan kali ini adalah masuknya anggota HIMATIKA 2019. Sebagaimana diketahui bahwa jumlah Anggota HIMATIKA 2019 mencapai 150 orang. Hal ini membuat beberapa anggapan bahwa, "Apakah Sekretariat cukup untuk menampung anggota sebanyak itu?" menimbulkan dilema, apakah memang kita harus senang jika banyak anggota HIMATIKA ITB yang datang ke Sekretariat, karena semakin banyak yang datang, maka akan semakin penuh dan sesak. Beberapa hal yang telah diwacanakan adalah:
-	* pemanfaatan bukit yang ada di depan Sekretariat untuk dimanfaatkan sebagai tempat yang bisa digunakan aktivitas Anggota HIMATIKA ITB. Hal tersebut mungkin dilaksanakan dengan kendala perizinan dari Direktorat Sarana dan Prasarana ITB. Sehingga, dalam kepengurusan kali ini, isu untuk pemanfaatan bukit di depan Sekretariat tidak jadi dibahas lagi.
-
-## Pertimbangan
-
-### Divisi Sarpras BP 2020/2021
-
+## Pertimbangan dalam Penyusunan Program Kerja
+### Badan Pengurus 2020-2021
 Pada kepengurusan saat ini, tidak ada perubahan berarti dalam struktur divisi. Saat ini, Divisi Sarpras didefinisikan sebagai Divisi *yang bertanggung jawab dalam menyediakan dan mengelola urusan sarana dan prasarana dalam sekretariat HIMATIKA ITB*. Hal ini dilanjutkan dengan tujuan *terciptanya Sekretariat yang mendukung anggotanya untuk berkegiatan dengan nyaman*.
 
 Terdapat empat arahan kerja pada kepengurusan saat ini
@@ -66,65 +84,92 @@ Terdapat empat arahan kerja pada kepengurusan saat ini
 3. Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya.
 4. Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.
 
-Walau terdapat beberapa perbedaan arahan kerja saat ini dengan kepengurusan sebelumnya, namun saya mengusahakan proker yang saya bentuk mencakup usaha-usaha yang telah dilakukan oleh kepengurusan sebelumnya.
+Walau terdapat beberapa perbedaan arahan kerja saat ini dengan kepengurusan sebelumnya, baik secara frasa maupun jumlah, saya mengusahakan program kerja yang dibentuk mencakup usaha-usaha yang telah diupayakan oleh kepengurusan sebelumnya.
+
+Apakah MSDA ada titip saran, seperti proker seperti *Ngopi!* gitu?
 
 ### Pandemi virus SARS-CoV-2
-
 Tidak dapat diabaikan bahwa pandemi penyakit COVID-19 akan berdampak pada peforma Divisi Sarpras saat ini. Berikut daftar kasus [tidak lengkap] yang saya pertimbangkan bagaimana pandemi ini dapat berdampak, dan bagaimana cara [to some extend] menanggapi hal tersebut:
 
-* **Kekurangan anggota**
-* **Sekre jadi sepi** transisi pengguna sekre menjadi online
-* **Ngisi maupun perbaikan barang jadi sulit/mahal** ekonomi
+* **Kurangnya minat Anggota** berpartisipasi menjadi staff Divisi Sarpras.
+	* Kekhawatiran yang mungkin adalah terjadinya terjangkitnya penyakit COVID-19 atau mengontaminasi ruangan sekre.
+	* berapa banyak anggota divisi tahun lalu? apakah saat ini ada kewajiban wajib staff bagi anggota? Bagaimana pembagian tugas jika:
+		* jumlah staff sama seperti sebelumnya?
+		* jumlah staff 2/3 dari sebelumnya?
+		* jumlah staff 1/2 dari sebelumnya?
+	hal ini hendaknya juga mempertimbangkan partisipasi staff selama kepengurusan (kualitas, bukan hanya kuantitas)
+
+* **Sekretariat yang menjadi lebih sepi.** Tentu hal ini ada baiknya, bahkan dengan pertimbangan bahwa pandemi penyakit COVID-19 dapat berakhir pada bulan Agustus, peluang terinfeksi tidak hilang begitu saja. Langkah preventif yang dapat kita lakukan sebelum ada vaksin untuk penyakit ini, sedikit banyak, adalah pembatasan fisik dan menghindari tempat-tempat umum. [urang penasaran, bagaimana SOP mahasiswa dalam mengadakan rapat pasca pandemi ini.]
+	* Pendapat tentang upaya sterilisasi rutin Sekretariat?
+	* Pendapat tentang memperluas sekre? tentu ijin lebih sulit (dan kurang waras diajukan pada masa saat ini) bagaimana dengan membuat guideline dan rekomendasi bagi penerus jika ingin melanjutkan ide ini?
+
+* **Mengganti maupun melakukan perbaikan barang menjadi lebih sulit/mahal.** Pandemi ini sedikit banyak juga akan berdampak pada bidang ekonomi dan sosial. Kita kemungkinan besar akan menghadapi proses yang lebih sulit dalam belanja :(
+
+### Pendapat Anggota
+Sepertinya saya perlu meminta masukkan dari Anggota, tentang bagaimana Sarpras dapat memenuhi kebutuhan mereka. Tentu, proker yang saya buat sedikit banyak dapat berjalan bahkan jika partisipasi Anggota rendah, tapi ayolah... saya tidak ingin membuat proker yang *pointless*.
 
 ## Program Kerja
+	Aman: tidak dimaling            --								 AMANKEUN
 
-| **Revisi**       | Detail |
-|------------------|--------|
-| Arahan Kerja     | Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur |
-| Deskripsi        |  |
-| Tujuan           |  |
-| Parameter Ketercapaian        |  |
-| Timeline/Frekuensi Pengerjaan |  |
-| Langkah Teknis                |  |
-| Jumlah SDM yang dibutuhkan    |  |
-| Rancangan Anggaran Biaya      |  |
+### Revisi
+* Arahan Kerja:
+	* Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur
+* Deskripsi
+* Tujuan:
+	* Nyaman, teratur
+* Parameter Ketercapaian:
+	* Nyaman: Sekretariat Bersih, sering piket -- disusun berapa hari sekali?
+	* Teratur: barang pada tempatnya, work as expected
+* Timeline/Frekuensi Pengerjaan
+* Langkah Teknis
+* Jumlah SDM yang dibutuhkan
+* Rancangan Anggaran Biaya
 
-| **Ambil Data**   | Detail |
-|------------------|--------|
-| Arahan Kerja     | Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat |
-| Deskripsi        |  |
-| Tujuan           |  |
-| Parameter Ketercapaian        |  |
-| Timeline/Frekuensi Pengerjaan |  |
-| Langkah Teknis                |  |
-| Jumlah SDM yang dibutuhkan    |  |
-| Rancangan Anggaran Biaya      |  |
+### Ambil Data
+* Arahan Kerja:
+	* Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat
+* Deskripsi
+* Tujuan:
+	* Pendataan, Pengadaan, Perbaikan
+* Parameter Ketercapaian
+	* Pendataan: 2 minggu sekali
+	* Pengadaan: secepatnya
+	* Perbaikan: secepatnya
+* Timeline/Frekuensi Pengerjaan
+* Langkah Teknis
+* Jumlah SDM yang dibutuhkan
+* Rancangan Anggaran Biaya
 
-| **Proposal**     | Detail |
-|------------------|--------|
-| Arahan Kerja     | Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya |
-| Deskripsi        |  |
-| Tujuan           |  |
-| Parameter Ketercapaian        |  |
-| Timeline/Frekuensi Pengerjaan |  |
-| Langkah Teknis                |  |
-| Jumlah SDM yang dibutuhkan    |  |
-| Rancangan Anggaran Biaya      |  |
+### Proposal
+* Arahan Kerja:
+	* Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur
+	* Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya.
+* Deskripsi
+* Tujuan:
+	* Aman, Penyimpanan, Penggunaan
+* Parameter Ketercapaian
+	* Aman: tidak dimaling
+	* Penyimpanan: tidak dimaling
+	* Penggunaan: tidak rusak dan tidak dimaling
+* Timeline/Frekuensi Pengerjaan
+* Langkah Teknis
+* Jumlah SDM yang dibutuhkan
+* Rancangan Anggaran Biaya
 
-| **Seminar**      | Detail |
-|------------------|--------|
-| Arahan Kerja     | Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB. |
-| Deskripsi        |  |
-| Tujuan           |  |
-| Parameter Ketercapaian        |  |
-| Timeline/Frekuensi Pengerjaan |  |
-| Langkah Teknis                |  |
-| Jumlah SDM yang dibutuhkan    |  |
-| Rancangan Anggaran Biaya      |  |
+### Seminar
+* Arahan Kerja:
+	Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.
+* Deskripsi
+* Tujuan:
+	Publikasi
+* Parameter Ketercapaian
+* Timeline/Frekuensi Pengerjaan
+* Langkah Teknis
+* Jumlah SDM yang dibutuhkan
+* Rancangan Anggaran Biaya
 
 
 ## Langkah Taktis
-
 ### Buku
 Organisasi memiliki koleksi buku yang banyak, (setidaknya) terdiri dari buku teks mata kuliah, buku pengayaan, dokumen LPJ, majalah dan koleksi fiksi, dan dokumen lawas. Sumbangan buku dari anggota dan alumni ikut memperkaya jumlah koleksi buku yang dimiliki HIMATIKA ITB. Namun dalam keberjalanannya, kuantitas buku yang banyak memberikan beberapa kesulitan dalam penyimpanan dan proses inventarisasi. Untuk itu, saya mengusulkan:
 
@@ -159,11 +204,19 @@ Ini banyak ragamnya... *sticky notes*, staples, HVS, tinta spidol, tali rafia, d
 
 btw urang bisa minta data LPJ wisuda, LPJ MCF, dkk; untuk nyediakan alat *yang tidak* hais pakai: misal memperbanyak jumlah kuas, gunting, stapler. selain itu, apakah P3K disekre sudah cukup lengkap?
 
+### SOP
+Daftar SOP yang perlu diperhatikan
+
 
 ### Kegiatan Non-Divisi
 Tentu, saya mengharapkan anggota tidak hanya berfokus pada permasalahan di divisinya masing-masing. Kinerja kepengurusan divisi Sarpras sebelumnya yang bagus, sedikit banyak telah membantu kepengurusan saat ini. Mengingat hal itu, saya berniat untuk membuat anggota divisi Sarpras aktif melihat dan bersama-sama membantu permasalahan yang terjadi di divisi lain (baik itu satu bidang, BP, maupun dalam kepengurusan tertentu). 
 
 ## Revisi Draft
-* 1.0, 2020-03-26
-* 1.1, 2020-04-05
-* 1.2, 2020-04-07
+
+| Versi |    Tanggal   | Perubahan  |
+|-------|--------------|------------|
+| 1.0   | 2020 Mar 26  | Draft awal |
+| 1.1   | 2020-04-05   | Menambahkan bagian Pertimbangan |
+| 1.2   | 2020-04-07   | Menambahkan bagian Daftar Isi, LPJ, Program Kerja; dan memperbaiki isi Pertimbangan |
+| 1.2.1 | 2020-04-07   | Memperbaiki dokumen |
+
