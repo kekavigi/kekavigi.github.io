@@ -3,10 +3,10 @@
   <channel>
     <title>keka.vigi</title>
     <description>A simple and awesome blog theme powered by jekyll.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2020-04-08</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2020 21:15:29 +0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>2020-04-10</pubDate>
+    <lastBuildDate>Fri, 10 Apr 2020 20:37:21 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -247,11 +247,21 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 &lt;h3 id=&quot;seminar&quot;&gt;Seminar&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Arahan Kerja:
-  Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Deskripsi&lt;/li&gt;
   &lt;li&gt;Tujuan:
-  Publikasi&lt;/li&gt;
-  &lt;li&gt;Parameter Ketercapaian&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Publikasi&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parameter Ketercapaian:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
   &lt;li&gt;Langkah Teknis&lt;/li&gt;
   &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
@@ -317,26 +327,26 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1.1&lt;/td&gt;
-      &lt;td&gt;2020-04-05&lt;/td&gt;
+      &lt;td&gt;2020 Apr 05&lt;/td&gt;
       &lt;td&gt;Menambahkan bagian Pertimbangan&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1.2&lt;/td&gt;
-      &lt;td&gt;2020-04-07&lt;/td&gt;
+      &lt;td&gt;2020 Apr 07&lt;/td&gt;
       &lt;td&gt;Menambahkan bagian Daftar Isi, LPJ, Program Kerja; dan memperbaiki isi Pertimbangan&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;1.2.1&lt;/td&gt;
-      &lt;td&gt;2020-04-07&lt;/td&gt;
+      &lt;td&gt;2020 Apr 10&lt;/td&gt;
       &lt;td&gt;Memperbaiki dokumen&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-        <pubDate>2020-04-08</pubDate>
-        <link>/articles/2020-03/Sapras-HIMATIKA-ITB</link>
-        <guid isPermaLink="true">/articles/2020-03/Sapras-HIMATIKA-ITB</guid>
+        <pubDate>2020-04-10</pubDate>
+        <link>http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</guid>
         
         
         <category>draft</category>
@@ -363,9 +373,9 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;p&gt;&lt;a href=&quot;https://books.google.co.id/books?id=L07OCwAAQBAJ&amp;amp;pg=PA89&amp;amp;lpg=PA89&amp;amp;dq=unsolved+problem+eigenvalue&amp;amp;source=bl&amp;amp;ots=SplJm7ONaL&amp;amp;sig=ACfU3U0wt6mM_i0NfpDdeP9qy_Uh66MFXw&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=2ahUKEwjwjcfb4JnoAhVLWH0KHVzOAWsQ6AEwCHoECAoQAQ#v=onepage&amp;amp;q=unsolved%20problem%20eigenvalue&amp;amp;f=false&quot;&gt;b&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>2020-04-08</pubDate>
-        <link>/articles/2020-03/NIEP</link>
-        <guid isPermaLink="true">/articles/2020-03/NIEP</guid>
+        <pubDate>2020-04-10</pubDate>
+        <link>http://localhost:4000/articles/2020-03/NIEP</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2020-03/NIEP</guid>
         
         
         <category>draft</category>
@@ -386,9 +396,9 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;p class=&quot;notice&quot;&gt;Saya belum membaca buku ini secara lengkap :(&lt;/p&gt;
 </description>
-        <pubDate>2020-04-08</pubDate>
-        <link>/articles/2020-03/The-Book-AB</link>
-        <guid isPermaLink="true">/articles/2020-03/The-Book-AB</guid>
+        <pubDate>2020-04-10</pubDate>
+        <link>http://localhost:4000/articles/2020-03/The-Book-AB</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2020-03/The-Book-AB</guid>
         
         
         <category>draft</category>

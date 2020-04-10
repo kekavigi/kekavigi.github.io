@@ -158,11 +158,12 @@ Sepertinya saya perlu meminta masukkan dari Anggota, tentang bagaimana Sarpras d
 
 ### Seminar
 * Arahan Kerja:
-	Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.
+	* Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.
 * Deskripsi
 * Tujuan:
-	Publikasi
-* Parameter Ketercapaian
+	* Publikasi
+* Parameter Ketercapaian:
+	* 
 * Timeline/Frekuensi Pengerjaan
 * Langkah Teknis
 * Jumlah SDM yang dibutuhkan
@@ -207,7 +208,6 @@ btw urang bisa minta data LPJ wisuda, LPJ MCF, dkk; untuk nyediakan alat *yang t
 ### SOP
 Daftar SOP yang perlu diperhatikan
 
-
 ### Kegiatan Non-Divisi
 Tentu, saya mengharapkan anggota tidak hanya berfokus pada permasalahan di divisinya masing-masing. Kinerja kepengurusan divisi Sarpras sebelumnya yang bagus, sedikit banyak telah membantu kepengurusan saat ini. Mengingat hal itu, saya berniat untuk membuat anggota divisi Sarpras aktif melihat dan bersama-sama membantu permasalahan yang terjadi di divisi lain (baik itu satu bidang, BP, maupun dalam kepengurusan tertentu). 
 
@@ -216,7 +216,7 @@ Tentu, saya mengharapkan anggota tidak hanya berfokus pada permasalahan di divis
 | Versi |    Tanggal   | Perubahan  |
 |-------|--------------|------------|
 | 1.0   | 2020 Mar 26  | Draft awal |
-| 1.1   | 2020-04-05   | Menambahkan bagian Pertimbangan |
-| 1.2   | 2020-04-07   | Menambahkan bagian Daftar Isi, LPJ, Program Kerja; dan memperbaiki isi Pertimbangan |
-| 1.2.1 | 2020-04-07   | Memperbaiki dokumen |
+| 1.1   | 2020 Apr 05   | Menambahkan bagian Pertimbangan |
+| 1.2   | 2020 Apr 07   | Menambahkan bagian Daftar Isi, LPJ, Program Kerja; dan memperbaiki isi Pertimbangan |
+| 1.2.1 | 2020 Apr 10   | Memperbaiki dokumen |
 
