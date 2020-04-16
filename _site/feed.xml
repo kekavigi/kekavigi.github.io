@@ -5,8 +5,8 @@
     <description>A simple and awesome blog theme powered by jekyll.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2020-04-10</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2020 20:37:21 +0700</lastBuildDate>
+    <pubDate>2020-04-14</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2020 11:07:47 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -52,7 +52,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Membuat Sekretariat menjadi tempat yang aman, terstruktur dan nyaman bagi Anggota HIMATIKA ITB.&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Membuat Sekretariat menjadi tempat yang aman, terstruktur dan nyaman bagi Anggota.&lt;/strong&gt;&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;Sekretariat &lt;strong&gt;aman&lt;/strong&gt;, hal ini diindikasikan dengan tidak adanya laporan kehilangan barang milik Sekretariat/ barang yang secara prosedural dititipkan pada Sarana dan Prasarana yang hilang.&lt;/li&gt;
@@ -69,18 +69,18 @@
 rampung. Sayangnya, data yang terhimpun tidak dimanfaatkan dan hanya disimpan sebagai draft saja.&lt;/li&gt;
       &lt;li&gt;pengecekan ulang ulang barang &lt;strong&gt;dilakukan hampir setiap hari&lt;/strong&gt; pada piket internal anggota Divisi Sarana dan Prasarana. Barang yang diperiksa pada pengecekan tersebut adalah barang yang setiap hari dipakai dan dibutuhkan, seperti komputer, kertas HVS,
 dll.&lt;/li&gt;
-      &lt;li&gt;Kerusakan barang &lt;strong&gt;terkadang tidak terlapor&lt;/strong&gt;. Untungnya, anggota HIMATIKA ITB sangat kooperatif untuk melapornya pada anggota Divisi Sarana dan Prasarana.&lt;/li&gt;
+      &lt;li&gt;Kerusakan barang &lt;strong&gt;terkadang tidak terlapor&lt;/strong&gt;. Untungnya, Anggota sangat kooperatif untuk melapornya pada anggota Divisi Sarana dan Prasarana.&lt;/li&gt;
       &lt;li&gt;Hasil dari pengecekan barang, dilakukan perbaikan pada barang yang rusak dan memang masih bisa diperbaiki. Eksekusi perbaikan barang membutuhkan waktu mulai 0-­30 hari dengan rata­-rata 12 hari. &lt;strong&gt;Waktu tersebut dirasa cukup lama&lt;/strong&gt; untuk perbaikan barang. Hal tersebut dikarenakan adanya beberapa barang dengan tingkat kerusakan tinggi dan juga &lt;strong&gt;kurangnya manajemen anggota divisi&lt;/strong&gt;.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Melakukan publikasi mengenai pembaruan barang­-barang yang ada di Sekretariat kepada Anggota HIMATIKA ITB.&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Melakukan publikasi mengenai pembaruan barang­-barang yang ada di Sekretariat kepada Anggota.&lt;/strong&gt;&lt;/p&gt;
 
     &lt;ul&gt;
-      &lt;li&gt;Publikasi mengenai pembaruan barang di Sekretariat dilakukan secara &lt;strong&gt;rutin 2 minggu sekali&lt;/strong&gt;. Secara umum, respon dari anggota HIMATIKA ITB sangat baik. Tujuan dari publikasi ini adalah
+      &lt;li&gt;Publikasi mengenai pembaruan barang di Sekretariat dilakukan secara &lt;strong&gt;rutin 2 minggu sekali&lt;/strong&gt;. Secara umum, respon dari Anggota sangat baik. Tujuan dari publikasi ini adalah
         &lt;ul&gt;
-          &lt;li&gt;anggota HIMATIKA ITB dapat mengetahui mengenai transparansi penggunaan uang di HIMATIKA ITB. Namun, tidak pernah dilakukan survei apakah anggota HIMATIKA ITB cukup tercerdaskan dengan publikasi pembaruan Sekretariat atau tidak.&lt;/li&gt;
-          &lt;li&gt;meningkatkan rasa kepemilikan dari Sekretariat HIMATIKA secara umum. Respon dari anggota HIMATIKA ITB terkait publikasi barang secara umum adalah positif, baik itu pembaruan Sekretariat, Jurnal Sarpras, dll. Hal tersebut diindikasikan dengan beberapa tanggapan yang dihimpun dari tautan bit.ly/SaranSarpras dan juga tanggapan langsung anggota HIMATIKA ITB.&lt;/li&gt;
+          &lt;li&gt;Anggota dapat mengetahui mengenai transparansi penggunaan uang di HIMATIKA ITB. Namun, tidak pernah dilakukan survei apakah Anggota cukup tercerdaskan dengan publikasi pembaruan Sekretariat atau tidak.&lt;/li&gt;
+          &lt;li&gt;meningkatkan rasa kepemilikan dari Sekretariat HIMATIKA secara umum. Respon dari Anggota terkait publikasi barang secara umum adalah positif, baik itu pembaruan Sekretariat, Jurnal Sarpras, dll. Hal tersebut diindikasikan dengan beberapa tanggapan yang dihimpun dari tautan bit.ly/SaranSarpras dan juga tanggapan langsung Anggota.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Publikasi Lost and Found dilakukan &lt;strong&gt;rutin 2 minggu sekali&lt;/strong&gt;. Publikasi ini dirasa berdampak untuk mengurangi jumlah barang bukan milik HIMATIKA ITB di Sekretariat&lt;/li&gt;
@@ -92,7 +92,7 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
     &lt;p&gt;&lt;strong&gt;Mengelola dan bertanggung jawab mengenai sistematika peminjaman barang­-barang milik HIMATIKA ITB.&lt;/strong&gt;&lt;/p&gt;
 
     &lt;ul&gt;
-      &lt;li&gt;Peminjaman barang milik HIMATIKA ITB dilakukan dengan pembuatan tautan daring guna menghimpun data peminjaman barang milik Sekretariat. Secara umum, anggota HIMATIKA ITB &lt;strong&gt;sangat kooperatif dan sadar&lt;/strong&gt; untuk mengikuti SOP peminjaman barang.&lt;/li&gt;
+      &lt;li&gt;Peminjaman barang milik HIMATIKA ITB dilakukan dengan pembuatan tautan daring guna menghimpun data peminjaman barang milik Sekretariat. Secara umum, Anggota &lt;strong&gt;sangat kooperatif dan sadar&lt;/strong&gt; untuk mengikuti SOP peminjaman barang.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -110,23 +110,23 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
     &lt;p&gt;Terdapat [pembelian] beberapa &lt;strong&gt;barang tanpa bon atau bon hilang&lt;/strong&gt;, juga beberapa &lt;strong&gt;pengeluaran uang tanpa pencatatan&lt;/strong&gt;. Hal tersebut tentu berakibat buruk di akhir kepengurusan dikarenakan dapat menghambat proses pembuatan laporan keuangan. Diharapkan bahwa pada kepengurusan selanjutnya, &lt;strong&gt;dipilih penanggung jawab terkait keuangan divisi&lt;/strong&gt;, sehingga diharapkan dapat mengurangi lalai dalam pencatatan.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Kontribusi penjagaan kebersihan dan kenyamanan Sekretariat telah disebar pada seluruh bidang, setidaknya pada anggota BP HIMATIKA ITB. Diharapkan, selain approaching internal divisi masing-­masing untuk bisa mengajak anggotanya melaksanakan piket, Divisi Sarana dan Prasarana juga dirasa &lt;strong&gt;perlu secara berkala mengingatkan terkait tujuan dari Piket&lt;/strong&gt; Anggota HIMATIKA ITB.&lt;/p&gt;
+    &lt;p&gt;Kontribusi penjagaan kebersihan dan kenyamanan Sekretariat telah disebar pada seluruh bidang, setidaknya pada anggota BP HIMATIKA ITB. Diharapkan, selain approaching internal divisi masing-­masing untuk bisa mengajak anggotanya melaksanakan piket, Divisi Sarana dan Prasarana juga dirasa &lt;strong&gt;perlu secara berkala mengingatkan terkait tujuan dari Piket&lt;/strong&gt; Anggota.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Isu yang muncul pada kepengurusan lalu adalah masuknya anggota HIMATIKA 2019 yang mencapai 150 orang. Hal ini menimbulkan anggapan bahwa Sekretariat tidak cukup untuk menampung perubahan seperti ini. Hal yang telah diwacanakan adalah &lt;strong&gt;pemanfaatan bukit&lt;/strong&gt; di depan Sekretariat untuk dimanfaatkan sebagai tempat yang bisa digunakan aktivitas Anggota HIMATIKA ITB. Hal tersebut mungkin dilaksanakan dengan kendala perizinan dari Direktorat Sarana dan Prasarana ITB.&lt;/p&gt;
+    &lt;p&gt;Isu yang muncul pada kepengurusan lalu adalah masuknya anggota HIMATIKA 2019 yang mencapai 150 orang. Hal ini menimbulkan anggapan bahwa Sekretariat tidak cukup untuk menampung perubahan seperti ini. Hal yang telah diwacanakan adalah &lt;strong&gt;pemanfaatan bukit&lt;/strong&gt; di depan Sekretariat untuk dimanfaatkan sebagai tempat yang bisa digunakan aktivitas Anggota. Hal tersebut mungkin dilaksanakan dengan kendala perizinan dari Direktorat Sarana dan Prasarana ITB.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;pertimbangan-dalam-penyusunan-program-kerja&quot;&gt;Pertimbangan dalam Penyusunan Program Kerja&lt;/h2&gt;
 &lt;h3 id=&quot;badan-pengurus-2020-2021&quot;&gt;Badan Pengurus 2020-2021&lt;/h3&gt;
-&lt;p&gt;Pada kepengurusan saat ini, tidak ada perubahan berarti dalam struktur divisi. Saat ini, Divisi Sarpras didefinisikan sebagai Divisi &lt;em&gt;yang bertanggung jawab dalam menyediakan dan mengelola urusan sarana dan prasarana dalam sekretariat HIMATIKA ITB&lt;/em&gt;. Hal ini dilanjutkan dengan tujuan &lt;em&gt;terciptanya Sekretariat yang mendukung anggotanya untuk berkegiatan dengan nyaman&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Pada kepengurusan saat ini, tidak ada perubahan berarti dalam struktur divisi. Saat ini, Divisi Sarpras didefinisikan sebagai Divisi &lt;em&gt;yang bertanggung jawab dalam menyediakan dan mengelola urusan sarana dan prasarana dalam Sekretariat&lt;/em&gt;. Hal ini dilanjutkan dengan tujuan &lt;em&gt;terciptanya Sekretariat yang mendukung anggotanya untuk berkegiatan dengan nyaman&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Terdapat empat arahan kerja pada kepengurusan saat ini&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur.&lt;/li&gt;
   &lt;li&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat.&lt;/li&gt;
   &lt;li&gt;Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya.&lt;/li&gt;
-  &lt;li&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/li&gt;
+  &lt;li&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada Anggota.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Walau terdapat beberapa perbedaan arahan kerja saat ini dengan kepengurusan sebelumnya, baik secara frasa maupun jumlah, saya mengusahakan program kerja yang dibentuk mencakup usaha-usaha yang telah diupayakan oleh kepengurusan sebelumnya.&lt;/p&gt;
@@ -134,18 +134,17 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 &lt;p&gt;Apakah MSDA ada titip saran, seperti proker seperti &lt;em&gt;Ngopi!&lt;/em&gt; gitu?&lt;/p&gt;
 
 &lt;h3 id=&quot;pandemi-virus-sars-cov-2&quot;&gt;Pandemi virus SARS-CoV-2&lt;/h3&gt;
-&lt;p&gt;Tidak dapat diabaikan bahwa pandemi penyakit COVID-19 akan berdampak pada peforma Divisi Sarpras saat ini. Berikut daftar kasus [tidak lengkap] yang saya pertimbangkan bagaimana pandemi ini dapat berdampak, dan bagaimana cara [to some extend] menanggapi hal tersebut:&lt;/p&gt;
+&lt;p&gt;Tidak dapat diabaikan bahwa pandemi penyakit COVID-19 akan berdampak pada peforma Divisi Sarpras saat ini. Berikut daftar kasus [tidak lengkap] yang saya pertimbangkan bagaimana pandemi ini dapat berdampak, dan apakah perlu ada cara menanggapi hal tersebut:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Kurangnya minat Anggota&lt;/strong&gt; berpartisipasi menjadi staff Divisi Sarpras.
     &lt;ul&gt;
-      &lt;li&gt;Kekhawatiran yang mungkin adalah terjadinya terjangkitnya penyakit COVID-19 atau mengontaminasi ruangan sekre.&lt;/li&gt;
-      &lt;li&gt;berapa banyak anggota divisi tahun lalu? apakah saat ini ada kewajiban wajib staff bagi anggota? Bagaimana pembagian tugas jika:
+      &lt;li&gt;Kekhawatiran yang mungkin adalah terjadinya terjangkitnya penyakit COVID-19 atau kontaminasi ruangan sekre.&lt;/li&gt;
+      &lt;li&gt;Perubahan partisipasi staff dan Anggota secara umum.
         &lt;ul&gt;
-          &lt;li&gt;jumlah staff sama seperti sebelumnya?&lt;/li&gt;
-          &lt;li&gt;jumlah staff 2/3 dari sebelumnya?&lt;/li&gt;
-          &lt;li&gt;jumlah staff 1/2 dari sebelumnya?
-  hal ini hendaknya juga mempertimbangkan partisipasi staff selama kepengurusan (kualitas, bukan hanya kuantitas)&lt;/li&gt;
+          &lt;li&gt;Pada kepengurusan lalu, jumlah staff ada 5, dan anggota magang juga ada 5. Mengingat jumlah Anggota tingkat 2 mencapai 150 dan tingkat 3 sebanyak 115 orang, rasanya mendapatkan 5-7 staff wajar. Pertimbangan bahwa divisi baru dapat dilakukan pada tahun ajaran baru, berarti ada sekitar 3 bulan (Aug-Sep-Oct) sebelum ada tambahan anak magang. Dari segi kuantitas, sepertinya ini tidak berdampak&lt;/li&gt;
+          &lt;li&gt;Pembagian staff: 1 orang untuk ngurusin pembukuan, 1-2 orang untuk PJ piket, 1-2 orang untuk PJ simpan-pinjam, dan permasalahan ngedata, pembaruan, pengadaan, dkk bisa dibagi bersama 3-4 orang lain. Mengasumsikan frekuensi kegiatan yang dilakukan pada saat ini tidak jauh berbeda dengan tahun sebelumnya, saya rasa minat staff dapat dijaga agar tetap tinggi&lt;/li&gt;
+          &lt;li&gt;Partisipasi Anggota dalam menjaga kebersihan dan kenyamanan sekre juga tidak ada perubahan.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -163,109 +162,187 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 &lt;p&gt;Sepertinya saya perlu meminta masukkan dari Anggota, tentang bagaimana Sarpras dapat memenuhi kebutuhan mereka. Tentu, proker yang saya buat sedikit banyak dapat berjalan bahkan jika partisipasi Anggota rendah, tapi ayolah… saya tidak ingin membuat proker yang &lt;em&gt;pointless&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;program-kerja&quot;&gt;Program Kerja&lt;/h2&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Aman: tidak dimaling            --								 AMANKEUN
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;revisi&quot;&gt;Revisi&lt;/h3&gt;
+&lt;h3 id=&quot;prok1&quot;&gt;PROK1&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Arahan Kerja:
     &lt;ul&gt;
-      &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur&lt;/li&gt;
+      &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Deskripsi&lt;/li&gt;
+  &lt;li&gt;Deskripsi:
+    &lt;ul&gt;
+      &lt;li&gt;Menata, merapikan, dan membersihkan Sekretariat.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Tujuan:
     &lt;ul&gt;
-      &lt;li&gt;Nyaman, teratur&lt;/li&gt;
+      &lt;li&gt;Menciptakan suasana Sekretariat yang nyaman dengan lingkungan &lt;strong&gt;bersih&lt;/strong&gt; dan &lt;strong&gt;terawat&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;Menciptakan suasana Sekretariat yang teratur dengan letak barang yang &lt;strong&gt;terstruktur&lt;/strong&gt; dan &lt;strong&gt;terjangkau&lt;/strong&gt;.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Parameter Ketercapaian:
     &lt;ul&gt;
-      &lt;li&gt;Nyaman: Sekretariat Bersih, sering piket – disusun berapa hari sekali?&lt;/li&gt;
-      &lt;li&gt;Teratur: barang pada tempatnya, work as expected&lt;/li&gt;
+      &lt;li&gt;Piket Anggota terlaksana setiap hari.&lt;/li&gt;
+      &lt;li&gt;Terealisasinya Mini Sekre Map&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
-  &lt;li&gt;Langkah Teknis&lt;/li&gt;
-  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
-  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
+  &lt;li&gt;Langkah Teknis:
+    &lt;ol&gt;
+      &lt;li&gt;Membuat jadwal piket Anggota dengan pembagian perhari didasarkan pada bidang yang ada di BP HIMATIKA ITB (kepala bidang, kepada dan wakil kepala divisi, serta anggota )&lt;/li&gt;
+      &lt;li&gt;Membuat Standard Operating Procedure piket Anggota&lt;/li&gt;
+      &lt;li&gt;Membuat Mini Sekre Map guna memberikan informasi mengenai letak barang secara umum&lt;/li&gt;
+      &lt;li&gt;Memperbaharui konten Mini Sekre Map berkaitan dengan pembaharuan barang di Sekretariat&lt;/li&gt;
+      &lt;li&gt;Membuat tata tertib Sekretariat&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan:
+    &lt;ul&gt;
+      &lt;li&gt;5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya:
+    &lt;ul&gt;
+      &lt;li&gt;-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;ambil-data&quot;&gt;Ambil Data&lt;/h3&gt;
+&lt;h3 id=&quot;prok2&quot;&gt;PROK2&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Arahan Kerja:
     &lt;ul&gt;
-      &lt;li&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Deskripsi&lt;/li&gt;
-  &lt;li&gt;Tujuan:
-    &lt;ul&gt;
-      &lt;li&gt;Pendataan, Pengadaan, Perbaikan&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Parameter Ketercapaian
-    &lt;ul&gt;
-      &lt;li&gt;Pendataan: 2 minggu sekali&lt;/li&gt;
-      &lt;li&gt;Pengadaan: secepatnya&lt;/li&gt;
-      &lt;li&gt;Perbaikan: secepatnya&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
-  &lt;li&gt;Langkah Teknis&lt;/li&gt;
-  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
-  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;proposal&quot;&gt;Proposal&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Arahan Kerja:
-    &lt;ul&gt;
-      &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur&lt;/li&gt;
+      &lt;li&gt;Membuat Sekretariat menjadi tempat yang aman, nyaman, dan teratur.&lt;/li&gt;
+      &lt;li&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat.&lt;/li&gt;
       &lt;li&gt;Membuat aturan mengenai peminjaman barang dan penggunaan barang di Sekretariat dan mengawasi keberjalanannya.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Deskripsi&lt;/li&gt;
+  &lt;li&gt;Deskripsi:
+    &lt;ul&gt;
+      &lt;li&gt;Menjaga barang yang ada di Sekretariat.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Tujuan:
     &lt;ul&gt;
-      &lt;li&gt;Aman, Penyimpanan, Penggunaan&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Parameter Ketercapaian
-    &lt;ul&gt;
-      &lt;li&gt;Aman: tidak dimaling&lt;/li&gt;
-      &lt;li&gt;Penyimpanan: tidak dimaling&lt;/li&gt;
-      &lt;li&gt;Penggunaan: tidak rusak dan tidak dimaling&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
-  &lt;li&gt;Langkah Teknis&lt;/li&gt;
-  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
-  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;seminar&quot;&gt;Seminar&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Arahan Kerja:
-    &lt;ul&gt;
-      &lt;li&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada anggota HIMATIKA ITB.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Deskripsi&lt;/li&gt;
-  &lt;li&gt;Tujuan:
-    &lt;ul&gt;
-      &lt;li&gt;Publikasi&lt;/li&gt;
+      &lt;li&gt;Terjaganya barang &lt;strong&gt;milik HIMATIKA ITB&lt;/strong&gt; yang ada di Sekretariat.&lt;/li&gt;
+      &lt;li&gt;Terjaganya barang yang secara &lt;strong&gt;resmi dititipkan&lt;/strong&gt; kepada Sarpras.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Terdatanya&lt;/strong&gt; barang milik HIMATIKA ITB.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Parameter Ketercapaian:
     &lt;ul&gt;
-      &lt;li&gt;&lt;/li&gt;
+      &lt;li&gt;Tidak ada barang HIMATIKA ITB atau barang titipan yang hilang.&lt;/li&gt;
+      &lt;li&gt;Terealisasinya buku inventarisasi barang yang ada di Sekretariat&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Timeline/Frekuensi Pengerjaan&lt;/li&gt;
-  &lt;li&gt;Langkah Teknis&lt;/li&gt;
-  &lt;li&gt;Jumlah SDM yang dibutuhkan&lt;/li&gt;
-  &lt;li&gt;Rancangan Anggaran Biaya&lt;/li&gt;
+  &lt;li&gt;Langkah Teknis:
+    &lt;ul&gt;
+      &lt;li&gt;Membuat Standard Operating Procedure penguncian pintu Sekretariat&lt;/li&gt;
+      &lt;li&gt;Membuat Standard Operating Procedure penitipan dan peminjaman barang di Sekretariat&lt;/li&gt;
+      &lt;li&gt;Melengkapi Standard Operating Procedure piket guna mengawasi dan menjaga barang HIMATIKA ITB dan titipan&lt;/li&gt;
+      &lt;li&gt;Melakukan pendataan barang di Sekretariat yang dicatat di buku inventarisasi&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan:
+    &lt;ul&gt;
+      &lt;li&gt;3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya:
+    &lt;ul&gt;
+      &lt;li&gt;-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;prok3&quot;&gt;PROK3&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Arahan Kerja:
+    &lt;ul&gt;
+      &lt;li&gt;Melakukan publikasi mengenai keadaan barang-barang yang berada di Sekretariat kepada Anggota.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Deskripsi:
+    &lt;ul&gt;
+      &lt;li&gt;Menginformasikan perbaharuan yang berkaitan dengan Sekretariat.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tujuan:
+    &lt;ul&gt;
+      &lt;li&gt;Agar Anggota mengetahui tentang pembaruan yang ada di Sekretariat.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parameter Ketercapaian:
+    &lt;ul&gt;
+      &lt;li&gt;Publikasi pembaruan terkait Sekretariat terlaksana setiap dua minggu sekali.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Langkah Teknis:
+    &lt;ul&gt;
+      &lt;li&gt;Mencatat setiap pembaruan di Sekretariat setiap dua minggu sekali.&lt;/li&gt;
+      &lt;li&gt;Berkoordinasi dengan Divisi Media dan Informasi untuk membuat template infografis mengenai perbaruan Sekretariat.&lt;/li&gt;
+      &lt;li&gt;Menyebarkan infografis kepada Anggota.&lt;/li&gt;
+      &lt;li&gt;Membuat Lost&amp;amp;Found Spot di Sekretariat.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan:
+    &lt;ul&gt;
+      &lt;li&gt;3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya:
+    &lt;ul&gt;
+      &lt;li&gt;-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;prok4&quot;&gt;PROK4&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Arahan Kerja:
+    &lt;ul&gt;
+      &lt;li&gt;Menciptakan suasana Sekretariat yang nyaman dengan lingkungan &lt;strong&gt;bersih&lt;/strong&gt; dan &lt;strong&gt;terawat&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;Melakukan pendataan dan pengecekan berkala barang-barang yang ada di Sekretariat.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Deskripsi:
+    &lt;ul&gt;
+      &lt;li&gt;Mengadakan barang yang diperlukan untuk menunjang kebersihan, kenyamanan, dan kegiatan di Sekretariat.&lt;/li&gt;
+      &lt;li&gt;Melakukan pemeriksaan dan perbaikan terhadap barang milik HIMATIKA ITB yang bermasalah dan menindaklanjutinya.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tujuan:
+    &lt;ul&gt;
+      &lt;li&gt;Terpenuhinya barang penunjang kebersihan, kenyamanan, dan kegiatan di Sekretariat.&lt;/li&gt;
+      &lt;li&gt;Memastikan barang milik HIMATIKA ITB yang ada di Sekretariat berfungsi sebagaimana mestinya.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parameter Ketercapaian:
+    &lt;ul&gt;
+      &lt;li&gt;Terbelinya alat penunjang kebersihan, kenyaman, dan kegiatan di Sekretariat.&lt;/li&gt;
+      &lt;li&gt;Setiap barang yang tidak berfungsi ditindaklanjuti.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Langkah Teknis:
+    &lt;ul&gt;
+      &lt;li&gt;Mendaftarkan barang yang pasti akan dibeli&lt;/li&gt;
+      &lt;li&gt;Menyebarkan formulir online pada awal kepengurusan guna mengumpulkan informasi terkait barang tambahan yang diperlukan di Sekretariat&lt;/li&gt;
+      &lt;li&gt;Menindaklanjuti hasil survei daftar barang yang akan dibeli dengan sebelumnya meminta izin kepada BP HIMATIKA ITB 2019/2020&lt;/li&gt;
+      &lt;li&gt;Menerima masukan pengadaan barang di sepanjang kepengurusan BP HIMATIKA ITB dari Anggota yang selanjutnya didiskusikan dengan Anggota BP HIMATIKA ITB 2019/2020&lt;/li&gt;
+      &lt;li&gt;Melakukan pemeriksaan barang setiap ada barang yang tidak berfungsi&lt;/li&gt;
+      &lt;li&gt;Menindaklanjuti barang yang tidak berfungsi sebagaimana mestinya&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Jumlah SDM yang dibutuhkan:
+    &lt;ul&gt;
+      &lt;li&gt;3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rancangan Anggaran Biaya:
+    &lt;ul&gt;
+      &lt;li&gt;-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;langkah-taktis&quot;&gt;Langkah Taktis&lt;/h2&gt;
@@ -304,7 +381,15 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 &lt;p&gt;btw urang bisa minta data LPJ wisuda, LPJ MCF, dkk; untuk nyediakan alat &lt;em&gt;yang tidak&lt;/em&gt; hais pakai: misal memperbanyak jumlah kuas, gunting, stapler. selain itu, apakah P3K disekre sudah cukup lengkap?&lt;/p&gt;
 
 &lt;h3 id=&quot;sop&quot;&gt;SOP&lt;/h3&gt;
-&lt;p&gt;Daftar SOP yang perlu diperhatikan&lt;/p&gt;
+&lt;p&gt;Daftar SOP yang perlu ditinjau ulang:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Piket Bidang&lt;/li&gt;
+  &lt;li&gt;Penitipan Barang&lt;/li&gt;
+  &lt;li&gt;Peminjaman Buku&lt;/li&gt;
+  &lt;li&gt;Peminjaman* Barang Non-Buku&lt;/li&gt;
+  &lt;li&gt;Pemasangan Poster dan Atribut&lt;/li&gt;
+  &lt;li&gt;Pemakaian Sektretariat untuk Rapat/Forum&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;kegiatan-non-divisi&quot;&gt;Kegiatan Non-Divisi&lt;/h3&gt;
 &lt;p&gt;Tentu, saya mengharapkan anggota tidak hanya berfokus pada permasalahan di divisinya masing-masing. Kinerja kepengurusan divisi Sarpras sebelumnya yang bagus, sedikit banyak telah membantu kepengurusan saat ini. Mengingat hal itu, saya berniat untuk membuat anggota divisi Sarpras aktif melihat dan bersama-sama membantu permasalahan yang terjadi di divisi lain (baik itu satu bidang, BP, maupun dalam kepengurusan tertentu).&lt;/p&gt;
@@ -340,11 +425,16 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
       &lt;td&gt;2020 Apr 10&lt;/td&gt;
       &lt;td&gt;Memperbaiki dokumen&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.2.2&lt;/td&gt;
+      &lt;td&gt;2020 Apr 14&lt;/td&gt;
+      &lt;td&gt;Memperbaiki dokumen&lt;/td&gt;
+    &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-        <pubDate>2020-04-10</pubDate>
+        <pubDate>2020-04-14</pubDate>
         <link>http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2020-03/Sapras-HIMATIKA-ITB</guid>
         
@@ -373,7 +463,7 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;p&gt;&lt;a href=&quot;https://books.google.co.id/books?id=L07OCwAAQBAJ&amp;amp;pg=PA89&amp;amp;lpg=PA89&amp;amp;dq=unsolved+problem+eigenvalue&amp;amp;source=bl&amp;amp;ots=SplJm7ONaL&amp;amp;sig=ACfU3U0wt6mM_i0NfpDdeP9qy_Uh66MFXw&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=2ahUKEwjwjcfb4JnoAhVLWH0KHVzOAWsQ6AEwCHoECAoQAQ#v=onepage&amp;amp;q=unsolved%20problem%20eigenvalue&amp;amp;f=false&quot;&gt;b&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>2020-04-10</pubDate>
+        <pubDate>2020-04-14</pubDate>
         <link>http://localhost:4000/articles/2020-03/NIEP</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2020-03/NIEP</guid>
         
@@ -396,7 +486,7 @@ HIMATIKA ITB. Respon dari JURNAL SARPRAS cukup baik dan juga &lt;strong&gt;menja
 
 &lt;p class=&quot;notice&quot;&gt;Saya belum membaca buku ini secara lengkap :(&lt;/p&gt;
 </description>
-        <pubDate>2020-04-10</pubDate>
+        <pubDate>2020-04-14</pubDate>
         <link>http://localhost:4000/articles/2020-03/The-Book-AB</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2020-03/The-Book-AB</guid>
         
